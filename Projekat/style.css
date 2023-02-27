@@ -51,4 +51,15 @@ header p::first-letter{
 p{
     text-align: justify;
 }
-
+main {
+    padding: 15px 15px;
+}
+figure img {
+    width: 25%;
+    height:25%;
+    margin: 5px auto; 
+    display:block;
+}
+figcaption {
+    text-align: center;
+}
